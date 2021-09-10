@@ -2,8 +2,8 @@
   
 // Database Connection
 
-$user = 'root';
-$password = 'mysqlroot123'; 
+$user = 'admin';
+$password = 'admin1234'; 
 $database = 'college'; 
 $servername='localhost:3306';
 
